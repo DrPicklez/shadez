@@ -1,0 +1,4 @@
+*.png
+*.mov
+*.mp3
+/bin/camPlayer_debug
